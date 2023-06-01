@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 
+
 int main()
 {int ele[10],i=0;
     printf("Input 10 Element in the Array:\n");
