@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main()
 {int n,e[10],i,sum=0;
     printf("Input The number o element to be stored in the array:");
